@@ -1,0 +1,18 @@
+Food deck
+=========
+5 x Tofu
+6 x Broccoli
+7 x Eggs
+7 x Meat
+7 x Dairy
+7 x Fish
+
+Lifestyle deck
+==============
+1 x No Tofu
+2 x No Broccoli
+3 x No Eggs
+3 x No Meat
+3 x No Dairy
+3 x No Fish
+
