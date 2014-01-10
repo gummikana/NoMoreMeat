@@ -1,0 +1,41 @@
+
+Winning
+=======
+
+The goal is to reach 10 karma points and become a carrot. Use some kind of counters to keep track of the score.
+
+
+Preparations
+============
+
+Shuffle both decks and deal four (???) food cards to each player.
+Flip up one lifestyle choice card and put next to that deck.
+
+Place the three pots in the middle of the table
+The pots are 
+- Random, shuffle and deal face down
+- Deal the pile backwards among the players
+- Select what card you want out of the pile
+
+
+Basic order of play
+===================
+
+1. Take karma points equal to the number of unique lifestyle choices you have  -OR- draw an additional lifestyle choice card and put in front of you. You can either pick the flipped up one or the hidden one from the top of the deck.
+
+2. Play a food card from your hand into one of the pots. A pot is full if it has as many cards as the number of players + 1. A full pot is immediately served to all the players.
+
+
+Serving
+=======
+
+The player who played the last card goes first and picks a card from the served pot. Follow the order of the pot, see above. The first player gets two cards, everyone else only one (until someone is out, then more players might get more than one card).
+Some cards give or take points when played (purple circle).
+Some cards let you draw more cards (green rectangle).
+If you eat something that you have promised not to eat (with a lifestyle choice) you lose all your points and don’t earn any points from cards that round (or did you earn points???). You never lose any lifestyle choices.
+If the deck runs out of cards, shuffle the discard pile to make a new deck.
+
+Death
+=====
+
+If you ever run out of cards in hand you starve to death. The player count never goes down though, so pots still require the original number of cards to become full.
