@@ -1,8 +1,40 @@
+No More Meat
+============
+
+A game of dietary restrictions and being morally superior than all the other players.
+
+
+Objective
+---------
+
+The goal is to reach 10 karma points and become a carrot. You do this by refusing to eat certain foods and forcing other players to eat what they're not supposed to eat. 
+
+
+Components
+----------
+
+* 39 food cards with a green back (7 Meat, 7 Dairy, 7 Fish, 7 Eggs, 6 Broccoli, 5 Tofu) 
+* 30 lifestyle cards with red back (6 No Meat, 6 No Dairy, 6 No Fish, 6 No Eggs, 4 No Broccoli, 2 No Tofu)
+* 4 pan cards (1 Select, 1 Shuffle, 1 Backwards, 1 Mystery)
+* 40 karma tokens with a picture of a carrot
+
+
+Setup
+-----
+
+Take the 4 pan cards and shuffle them face down. Discard the top pan card and lay the 3 cards face up on the center of the table. 
+
+Take the lifestyle deck and shuffle it. Lay it face down beside the 3 pans. Flip the top card face up and lay it next to the deck, so all players can see it.
+
+Take the food deck and shuffle it. Deal 4 food cards face down to each player. 
+
+Take the karma tokens and place them on the table in reach of all the players.
+
+
 
 Winning
 =======
 
-The goal is to reach 10 karma points and become a carrot. Use some kind of counters to keep track of the score.
 
 
 Preparations
