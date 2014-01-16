@@ -30,7 +30,22 @@ Take the food deck and shuffle it. Deal 4 food cards face down to each player.
 
 Take the karma tokens and place them on the table in reach of all the players.
 
+The starting player is the player with most real life dietary restrictions. In case of a tie, flip a coin. 
 
+
+Basic order of play
+-------------------
+
+On player's turn they do the following:
+
+1. Take karma points equal to the number of _unique_ lifestyle choices you have  -OR- draw an additional lifestyle choice card and put in front of you. You can either pick the flipped up one or the hidden one from the top of the deck.
+
+2. Play a food card from your hand into one of the pans. A pan is full if it has as many cards as the number of players + 1. A full pan is immediately served to all the players (See serving). 
+
+The turn is over and next player (clockwise) takes their turn. 
+
+
+(Winning, starving)
 
 Winning
 =======
