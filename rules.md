@@ -7,7 +7,7 @@ A game of dietary restrictions and being morally superior than all the other pla
 Objective
 ---------
 
-The goal is to reach 10 karma points and become a carrot. You do this by refusing to eat certain foods and forcing other players to eat what they're not supposed to eat. 
+The goal is to reach 10 karma points and become a carrot. You have to avoid death from malnourishment, avoid eating foods you've promised not to eat and hopefully shove some food into the mouths of the other players.
 
 
 Components
@@ -22,11 +22,11 @@ Components
 Setup
 -----
 
-Take the 4 pan cards and shuffle them face down. Discard the top pan card and lay the 3 cards face up on the center of the table. 
+Take the 4 pan cards and shuffle them face down. Discard the top pan card and lay the remaining 3 cards face up on the center of the table. These are the pans.
 
-Take the lifestyle deck and shuffle it. Lay it face down beside the 3 pans. Flip the top card face up and lay it next to the deck, so all players can see it.
+Take the lifestyle deck and shuffle it. Lay it face down beside the 3 pans. Flip the top card face up and lay it next to the deck, so all players can see it. 
 
-Take the food deck and shuffle it. Deal 4 food cards face down to each player. 
+Take the food deck and shuffle it. Deal 4 food cards to each player face down. These 4 cards form players hands.
 
 Take the karma tokens and place them on the table in reach of all the players.
 
@@ -36,13 +36,16 @@ The starting player is the player with most real life dietary restrictions. In c
 Basic order of play
 -------------------
 
-On player's turn they do the following:
+On player's turn they have to do the following in order:
 
-1. Take karma points equal to the number of _unique_ lifestyle choices you have  -OR- draw an additional lifestyle choice card and put in front of you. You can either pick the flipped up one or the hidden one from the top of the deck.
+1. Take karma tokens equal to the number of _unique_ lifestyle choices they have  -OR- draw an additional lifestyle choice card and put in front of them. They can either pick the flipped up one or the hidden one from the top of the deck.
 
-2. Play a food card from your hand into one of the pans. A pan is full if it has as many cards as the number of players + 1. A full pan is immediately served to all the players (See serving). 
+2. Play a food card from their hand into one of the pans. 
+
+3. If playing a card causes that pan to be full it is served immediately. A pan is full if it has as many cards as the number of players + 1. (See serving). 
 
 The turn is over and next player (clockwise) takes their turn. 
+
 
 
 (Winning, starving)
@@ -79,7 +82,7 @@ Serving
 The player who played the last card goes first and picks a card from the served pot. Follow the order of the pot, see above. The first player gets two cards, everyone else only one (until someone is out, then more players might get more than one card).
 Some cards give or take points when played (purple circle).
 Some cards let you draw more cards (green rectangle).
-If you eat something that you have promised not to eat (with a lifestyle choice) you lose all your points and don’t earn any points from cards that round (or did you earn points???). You never lose any lifestyle choices.
+If you eat something that you have promised not to eat (with a lifestyle choice) you lose all your points and donï¿½t earn any points from cards that round (or did you earn points???). You never lose any lifestyle choices.
 If the deck runs out of cards, shuffle the discard pile to make a new deck.
 
 Death
