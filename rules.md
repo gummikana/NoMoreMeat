@@ -5,13 +5,13 @@ A game of dietary restrictions and being morally superior than all the other pla
 
 
 Objective
----------
+=========
 
-The goal is to reach 10 karma points and become a carrot. You have to avoid death from malnourishment, avoid eating foods you've promised not to eat and hopefully shove some food into the mouths of the other players.
+The goal is to reach 10 karma points and become a carrot. You have to avoid death from starvation, avoid eating foods you've promised not to eat and hopefully shove some food into the mouths of the other players.
 
 
 Components
-----------
+==========
 
 * 39 food cards with a green back (7 Meat, 7 Dairy, 7 Fish, 7 Eggs, 6 Broccoli, 5 Tofu) 
 * 30 lifestyle cards with red back (6 No Meat, 6 No Dairy, 6 No Fish, 6 No Eggs, 4 No Broccoli, 2 No Tofu)
@@ -20,7 +20,7 @@ Components
 
 
 Setup
------
+=====
 
 Take the 4 pan cards and shuffle them face down. Discard the top pan card and lay the remaining 3 cards face up on the center of the table. These are the pans.
 
@@ -32,20 +32,56 @@ Take the karma tokens and place them on the table in reach of all the players.
 
 The starting player is the player with most real life dietary restrictions. In case of a tie, flip a coin. 
 
+How to play
+===========
 
-Basic order of play
+No More Meat is played in turns. The game ends when any of the players gets 10 or more karma points or if only 1 player is left alive.
+
+
+Taking a turn
+-------------
+
+On your turn you have to do the following in order:
+
+1. Take karma points equal to the number of _unique_ lifestyle choices you have  -OR- draw an additional lifestyle choice card.
+
+2. Play a food card from your hand into one of the pans. If you cannot play a card (because you have none) you die of starvation. 
+
+3. If playing a card causes a pan to be full, it is served immediately. A pan is full if it has as many cards as the number of players + 1. 
+
+Your turn is over and the turn passes to the player on your left.
+
+
+Taking karma points
 -------------------
 
-On player's turn they have to do the following in order:
+At the beginning of their turn the player may take karma points equal to the amount of _unique_ lifestyle choice cards they have (unique to them) -OR- draw an additional lifestyle choice card.
 
-1. Take karma tokens equal to the number of _unique_ lifestyle choices they have  -OR- draw an additional lifestyle choice card and put in front of them. They can either pick the flipped up one or the hidden one from the top of the deck.
+The karma points are taken from the pool and placed in front of the player, so they may be seen and counted by all the other players. 
 
-2. Play a food card from their hand into one of the pans. 
+Taking a lifestyle choice
+-------------------------
 
-3. If playing a card causes that pan to be full it is served immediately. A pan is full if it has as many cards as the number of players + 1. (See serving). 
+When drawing a lifestyle choice card the player has 2 options. They take the lifestyle choice card that is face up on the table -OR- they can take the face down card that is on top of the lifestyle choice deck. The selected lifestyle choice card is placed face up in front of the player. 
 
-The turn is over and next player (clockwise) takes their turn. 
+After this a new lifestyle choice card is flipped up next to the lifestyle choice deck.
 
+What if I take a face down card and I get a restriction that I already have? 
+When drawing a restriction that you already have, the duplicate restriction is placed into the discard pile. You can only get karma points from unique lifestyle choice cards that you have.
+
+Playing a food card
+-------------------
+
+On your turn you have to play a food card from your hand to one of the pans. If you don't have any food cards to play you die of starvation. Note that running out of cards doesn't kill you instantly, you die when you need to place a card and don't have any to place.
+
+Place your selected food card face up on any of the pans (except in the case of Mystery pan). If there are cards on the pan already, lay it on top of them so that the previous cards can be seen. 
+
+When placing a card on the Mystery pan place it face down and don't show it to anyone. 
+
+If the number of cards on a pan is equal to the number of players + 1 the pan served.
+
+Serving
+-------
 
 
 (Winning, starving)
