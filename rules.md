@@ -16,17 +16,17 @@ Components
 * 39 food cards with a green back (7 Meat, 7 Dairy, 7 Fish, 7 Eggs, 6 Broccoli, 5 Tofu) 
 * 30 lifestyle cards with red back (6 No Meat, 6 No Dairy, 6 No Fish, 6 No Eggs, 4 No Broccoli, 2 No Tofu)
 * 4 pan cards (1 Select, 1 Shuffle, 1 Backwards, 1 Mystery)
-* 40 karma tokens with a picture of a carrot
+* 40 karma tokens with a picture of a yin yang
 
 
 Setup
 =====
 
+Take the food deck and shuffle it. Deal 4 food cards to each player face down. These 4 cards form players hands.
+
 Take the 4 pan cards and shuffle them face down. Discard the top pan card and lay the remaining 3 cards face up on the center of the table. These are the pans.
 
 Take the lifestyle deck and shuffle it. Lay it face down beside the 3 pans. Flip the top card face up and lay it next to the deck, so all players can see it. 
-
-Take the food deck and shuffle it. Deal 4 food cards to each player face down. These 4 cards form players hands.
 
 Take the karma tokens and place them on the table in reach of all the players.
 
@@ -35,7 +35,7 @@ The starting player is the player with most real life dietary restrictions. In c
 How to play
 ===========
 
-No More Meat is played in turns. The game ends when any of the players gets 10 or more karma points or if only 1 player is left alive.
+No More Meat is played in turns. The starting player takes the first turn, and turns continue clockwise around the table. The game ends when any of the players gets 10 or more karma points or if only one player is left alive.
 
 
 Taking a turn
@@ -52,25 +52,25 @@ On your turn you have to do the following in order:
 Your turn is over and the turn passes to the player on your left.
 
 
-Taking karma points
+1. Taking karma points
 -------------------
 
 At the beginning of their turn the player may take karma points equal to the amount of _unique_ lifestyle choice cards they have (unique to them) -OR- draw an additional lifestyle choice card.
 
 The karma points are taken from the pool and placed in front of the player, so they may be seen and counted by all the other players. 
 
-Taking a lifestyle choice
--------------------------
+1. Or Taking a lifestyle choice
+-------------------------------
 
-When drawing a lifestyle choice card the player has 2 options. They take the lifestyle choice card that is face up on the table -OR- they can take the face down card that is on top of the lifestyle choice deck. The selected lifestyle choice card is placed face up in front of the player. 
+When drawing a lifestyle choice card they can take either the lifestyle choice card that is face up on the table -OR- the face down card that is on top of the lifestyle choice deck. The selected lifestyle choice card is placed face up in front of the player. 
 
 After this a new lifestyle choice card is flipped up next to the lifestyle choice deck.
 
 What if I take a face down card and I get a restriction that I already have? 
 When drawing a restriction that you already have, the duplicate restriction is placed into the discard pile. You can only get karma points from unique lifestyle choice cards that you have.
 
-Playing a food card
--------------------
+2. Playing a food card
+----------------------
 
 On your turn you have to play a food card from your hand to one of the pans. If you don't have any food cards to play you die of starvation. Note that running out of cards doesn't kill you instantly, you die when you need to place a card and don't have any to place.
 
@@ -80,8 +80,17 @@ When placing a card on the Mystery pan place it face down and don't show it to a
 
 If the number of cards on a pan is equal to the number of players + 1 the pan served.
 
-Serving
--------
+3. Serving a full pot
+---------------------
+
+A pot is served when the card that exceeds the number of players is played. E.g. In a 3 player game when the fourth card is played into a pot it is served.
+
+The player who played the last card goes first and picks a card from the served pot. Follow the serving order of the pot (Explained below). The first player gets two cards, everyone else gets only one. 
+
+The cards are placed face up in front of the player and dealt with in order.
+
+
+
 
 
 (Winning, starving)
