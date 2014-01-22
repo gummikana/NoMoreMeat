@@ -109,6 +109,13 @@ Backwards
 
 Take the cards in the pot and keep them in order. The player who played the last card takes the top card. Then go around the table in _counterclockwise_ order and deal the cards to each player. The player who got the first card, should also get the last card.
 
+Example 
+-------
+
+In a 3 player game, Ari plays the Tofu card from his hand into the backwards pot. The pot had 3 cards in it before, so after Ari's placed his card in it is served.
+
+Because it's the backwards pot it is served in counterclockwise order. Ari is served the top card (which is his Tofu). Matti the player to Ari's right gets the Broccoli. Kristian the player to Matti's right gets the Fish and the last card in the pot: Meat is served to Ari.
+
 
 
 
