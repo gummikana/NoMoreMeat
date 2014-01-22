@@ -1,13 +1,13 @@
 No More Meat
 ============
 
-A game of dietary restrictions and being morally superior than all the other players.
+A game about dietary restrictions and moral superiority.
 
 
 Objective
 =========
 
-The goal is to reach 10 karma points and become a carrot. You have to avoid death from starvation, avoid eating foods you've promised not to eat and hopefully shove some food into the mouths of the other players.
+The goal is to reach 10 karma points and achieve moral superiority over the other players. You do this by not eating the foods you've promised not to eat and trying to get other players to eat their forbidden foods, while also avoiding death from starvation.
 
 
 Components
@@ -22,7 +22,7 @@ Components
 Setup
 =====
 
-Take the food deck and shuffle it. Deal 4 food cards to each player face down. These 4 cards form players hands.
+Take the food deck and shuffle it. Deal 4 food cards to each player face down. These 4 cards are the player's starting hand.
 
 Take the 4 pan cards and shuffle them face down. Discard the top pan card and lay the remaining 3 cards face up on the center of the table. These are the pans.
 
@@ -62,7 +62,7 @@ The karma points are taken from the pool and placed in front of the player, so t
 1. Or Taking a lifestyle choice
 -------------------------------
 
-When drawing a lifestyle choice card they can take either the lifestyle choice card that is face up on the table -OR- the face down card that is on top of the lifestyle choice deck. The selected lifestyle choice card is placed face up in front of the player. 
+When drawing a lifestyle choice card the player can take either the lifestyle choice card that is face up on the table -OR- the face down card that is on top of the lifestyle choice deck. The selected lifestyle choice card is placed face up in front of the player. 
 
 After this a new lifestyle choice card is flipped up next to the lifestyle choice deck.
 
@@ -74,47 +74,52 @@ When drawing a restriction that you already have, the duplicate restriction is p
 
 On your turn you have to play a food card from your hand to one of the pans. If you don't have any food cards to play you die of starvation. Note that running out of cards doesn't kill you instantly, you die when you need to place a card and don't have any to place.
 
-Place your selected food card face up on any of the pans (except in the case of Mystery pan). If there are cards on the pan already, lay it on top of them so that the previous cards can be seen. 
+Place your selected food card face up on any of the pans (except in the case of Mystery pan). If there are cards on the pan already, lay it on top of them so that the previous cards can be seen. Keep the cards in the order they were placed.
 
 When placing a card on the Mystery pan place it face down and don't show it to anyone. 
 
-If the number of cards on a pan is equal to the number of players + 1 the pan served.
+If the number of cards on a pan is equal to the number of players + 1, the pan is served immediately.
 
-3. Serving a full pot
+3. Serving a full pan
 ---------------------
 
-A pot is served when the card that exceeds the number of players is played. E.g. In a 3 player game when the fourth card is played into a pot it is served.
+A pan is served when the card that exceeds the number of players by one is played. E.g. In a 3 player game, when a pan already has 3 cards and a fourth card is played into the pan, it is served.
 
-The player who played the last card goes first and picks a card from the served pot. Follow the serving order of the pot (Explained below). The first player gets two cards, everyone else gets only one. 
+Follow the serving instructions of the pan (explained below). Note that unless one or more of the players have been eliminated, the player who placed the last card into the pan gets the first and last cards dealt, while everyone else gets only one.
 
-The cards are placed face up in front of the player and dealt with in order.
+The cards are placed face up in front of the player they were served to and take effect in the order received. The cards are consumed and go to the discard pile (see Consumption below).
 
 Shuffle
 -------
 
-Take the cards in the pot. Turn the face down and shuffle them. Deal the first card to the player who placed the last card into the pot. Then deal cards face down clockwise around the table. The last card should end up to the player who got the first one. Now flip the cards face and serve them to the players.
+Take the cards in the pan, turn them face down and shuffle them. Starting with the player who placed the last card into the pan, deal the cards face up clockwise around the table.
 
 Select
 ------
 
-Take the cards in the pot. The player who played the last cards starts and takes any of the cards in the pot. Then clockwise around the table, each player on their turn can select any of the remaining cards. The last card is left to the player who started it all.
+Take the cards in the pan, keeping them face up. The player who placed the last card into the pan starts and takes any one of the cards in the pan. Then going clockwise around the table, each player selects any one of the remaining cards.
 
 Mystery
 -------
 
-When placing a card into the mystery pot, don't show that card to any of the other players and place it face down into the pot. When the mystery pot is served, take all the cards and give the first card (the last card played) and to the player who played the last card into it. Then deal the cards one at a time to each player in clockwise order.  The last card should end up to the player who got the first one. Now flip the cards face and serve them to the players.
+Take all the cards, keeping them in the order they were placed in the pan. Starting with the player who placed the last card into the pan, deal the cards face up one at a time to each player in clockwise order.
+
+When placing a card into the mystery pan, do not show the card and place it face down into the pan.
 
 Backwards
 ---------
 
-Take the cards in the pot and keep them in order. The player who played the last card takes the top card. Then go around the table in _counterclockwise_ order and deal the cards to each player. The player who got the first card, should also get the last card.
+Take the cards in the pan, keeping them in the order they were placed. Starting with the player who placed the last card into the pan, go around the table in _counterclockwise_ order and deal the cards to each player.
 
 Example 
 -------
 
-In a 3 player game, Ari plays the Tofu card from his hand into the backwards pot. The pot had 3 cards in it before, so after Ari's placed his card in it is served.
+In a 3 player game, Ari plays the Tofu card from his hand into the Backwards pan. The pan had 3 cards in it before, so after Ari has placed his card in it, it is served.
 
-Because it's the backwards pot it is served in counterclockwise order. Ari is served the top card (which is his Tofu). Matti the player to Ari's right gets the Broccoli. Kristian the player to Matti's right gets the Fish and the last card in the pot: Meat is served to Ari.
+The backwards pan is served in counterclockwise order. Therefore Ari is served the top card (which is his Tofu). Matti, the player to Ari's right, gets the Broccoli. Kristian, the player to Matti's right, gets the Fish and the last card in the pan, Meat, is served to Ari.
+
+Consumption
+-----------
 
 
 
@@ -134,8 +139,8 @@ Preparations
 Shuffle both decks and deal four (???) food cards to each player.
 Flip up one lifestyle choice card and put next to that deck.
 
-Place the three pots in the middle of the table
-The pots are 
+Place the three pans in the middle of the table
+The pans are 
 - Random, shuffle and deal face down
 - Deal the pile backwards among the players
 - Select what card you want out of the pile
@@ -146,13 +151,13 @@ Basic order of play
 
 1. Take karma points equal to the number of unique lifestyle choices you have  -OR- draw an additional lifestyle choice card and put in front of you. You can either pick the flipped up one or the hidden one from the top of the deck.
 
-2. Play a food card from your hand into one of the pots. A pot is full if it has as many cards as the number of players + 1. A full pot is immediately served to all the players.
+2. Play a food card from your hand into one of the pans. A pan is full if it has as many cards as the number of players + 1. A full pan is immediately served to all the players.
 
 
 Serving
 =======
 
-The player who played the last card goes first and picks a card from the served pot. Follow the order of the pot, see above. The first player gets two cards, everyone else only one (until someone is out, then more players might get more than one card).
+The player who played the last card goes first and picks a card from the served pan. Follow the order of the pan, see above. The first player gets two cards, everyone else only one (until someone is out, then more players might get more than one card).
 Some cards give or take points when played (purple circle).
 Some cards let you draw more cards (green rectangle).
 If you eat something that you have promised not to eat (with a lifestyle choice) you lose all your points and don�t earn any points from cards that round (or did you earn points???). You never lose any lifestyle choices.
@@ -161,4 +166,4 @@ If the deck runs out of cards, shuffle the discard pile to make a new deck.
 Death
 =====
 
-If you ever run out of cards in hand you starve to death. The player count never goes down though, so pots still require the original number of cards to become full.
+If you ever run out of cards in hand you starve to death. The player count never goes down though, so pans still require the original number of cards to become full.
