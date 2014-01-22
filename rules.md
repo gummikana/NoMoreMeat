@@ -89,6 +89,27 @@ The player who played the last card goes first and picks a card from the served 
 
 The cards are placed face up in front of the player and dealt with in order.
 
+Shuffle
+-------
+
+Take the cards in the pot. Turn the face down and shuffle them. Deal the first card to the player who placed the last card into the pot. Then deal cards face down clockwise around the table. The last card should end up to the player who got the first one. Now flip the cards face and serve them to the players.
+
+Select
+------
+
+Take the cards in the pot. The player who played the last cards starts and takes any of the cards in the pot. Then clockwise around the table, each player on their turn can select any of the remaining cards. The last card is left to the player who started it all.
+
+Mystery
+-------
+
+When placing a card into the mystery pot, don't show that card to any of the other players and place it face down into the pot. When the mystery pot is served, take all the cards and give the first card (the last card played) and to the player who played the last card into it. Then deal the cards one at a time to each player in clockwise order.  The last card should end up to the player who got the first one. Now flip the cards face and serve them to the players.
+
+Backwards
+---------
+
+Take the cards in the pot and keep them in order. The player who played the last card takes the top card. Then go around the table in _counterclockwise_ order and deal the cards to each player. The player who got the first card, should also get the last card.
+
+
 
 
 
