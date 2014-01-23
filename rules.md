@@ -41,7 +41,7 @@ No More Meat is played in turns. The starting player takes the first turn, and t
 Taking a turn
 -------------
 
-On your turn you have to do the following in order:
+On your turn, do the following in order:
 
 1. Take karma points equal to the number of _unique_ lifestyle choices you have  -OR- draw an additional lifestyle choice card.
 
@@ -134,7 +134,10 @@ When consuming a food that you are allowed to eat, do the following:
 If you must consume a card with a food that your lifestyle choices restrict you from eating, you lose all of your karma points (including any karma points you might gain from other cards in this round). Additionally, you do not get any new food cards from cards that you are restricted from eating. 
 
 
+Example
+-------
 
+Ari's got 7 karma points and he is served a Broccoli and a Meat, but he has the No Meat lifestyle restriction. Because Ari has the No Meat lifestyle choice card and he's forced to eat Meat he looses all his karma points. Also he doesn't get any of food cards from the Meat. Fortunately Ari can eat the Broccoli, but unfortunately he lost all of his karma points this round, so he doesn't get the 1 karma point from Broccoli. But he gets the 1 food card added to his hand from consuming the Broccoli.
 
 (Winning, starving)
 
