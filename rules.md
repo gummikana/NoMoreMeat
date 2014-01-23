@@ -7,7 +7,7 @@ A game about dietary restrictions and moral superiority.
 Objective
 =========
 
-The goal is to reach 10 karma points and achieve moral superiority over the other players. You do this by not eating the foods you've promised not to eat and trying to get other players to eat their forbidden foods, while also avoiding death from starvation.
+The goal is to reach 10 karma points and achieve moral superiority over the other players. You do this by not eating the foods you're restricted from eating and trying to get other players to eat their forbidden foods, while also avoiding death from starvation.
 
 
 Components
@@ -49,6 +49,8 @@ On your turn you have to do the following in order:
 
 3. If playing a card causes a pan to be full, it is served immediately. A pan is full if it has as many cards as the number of players + 1. 
 
+4. If a pan has been served, consumption of cards occurs.
+
 Your turn is over and the turn passes to the player on your left.
 
 
@@ -59,10 +61,10 @@ At the beginning of their turn the player may take karma points equal to the amo
 
 The karma points are taken from the pool and placed in front of the player, so they may be seen and counted by all the other players. 
 
-1. Or Taking a lifestyle choice
+1. Or taking a lifestyle choice
 -------------------------------
 
-When drawing a lifestyle choice card the player can take either the lifestyle choice card that is face up on the table -OR- the face down card that is on top of the lifestyle choice deck. The selected lifestyle choice card is placed face up in front of the player. 
+When drawing a lifestyle choice card the player can take either the lifestyle choice card that is face up on the table -OR- the face down card that is on top of the lifestyle choice deck. The selected lifestyle choice card is placed face up in front of the player. Lifestyle choices are permanent and cannot be removed during the game.
 
 After this a new lifestyle choice card is flipped up next to the lifestyle choice deck.
 
@@ -87,7 +89,7 @@ A pan is served when the card that exceeds the number of players by one is playe
 
 Follow the serving instructions of the pan (explained below). Note that unless one or more of the players have been eliminated, the player who placed the last card into the pan gets the first and last cards dealt, while everyone else gets only one.
 
-The cards are placed face up in front of the player they were served to and take effect in the order received. The cards are consumed and go to the discard pile (see Consumption below).
+The cards are placed face up in front of the player they were served to.
 
 Shuffle
 -------
@@ -118,10 +120,18 @@ In a 3 player game, Ari plays the Tofu card from his hand into the Backwards pan
 
 The backwards pan is served in counterclockwise order. Therefore Ari is served the top card (which is his Tofu). Matti, the player to Ari's right, gets the Broccoli. Kristian, the player to Matti's right, gets the Fish and the last card in the pan, Meat, is served to Ari.
 
-Consumption
------------
+4. Consumption
+--------------
 
+Once a pan has been served, the served cards are consumed by the players and the effects of the cards are applied. Consumed cards go into the discard pile.
 
+When consuming a food that you are allowed to eat, do the following:
+
+1. Add or subtract the number of karma points indicated on the card (if any).
+
+2. Take the number of food cards indicated on the card (if any) from the food deck and add them to your hand.
+
+If you must consume a card with a food that your lifestyle choices restrict you from eating, you lose all of your karma points (including any karma points you might gain from other cards in this round). Additionally, you do not get any new food cards from cards that you are restricted from eating. 
 
 
 
